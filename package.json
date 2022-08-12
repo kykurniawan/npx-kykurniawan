@@ -1,0 +1,23 @@
+{
+  "name": "kykurniawan",
+  "version": "1.0.0",
+  "description": "Just about me",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kykurniawan/npx-kykurniawan.git"
+  },
+  "keywords": [
+    "npx"
+  ],
+  "author": "kykurniawan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kykurniawan/npx-kykurniawan/issues"
+  },
+  "homepage": "https://github.com/kykurniawan/npx-kykurniawan#readme"
+}
